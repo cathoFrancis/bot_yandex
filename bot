@@ -6,7 +6,6 @@
 // @author       Igor_Orlov
 // @match        https://yandex.ru/*
 //@match        https://ya.ru/*
-//@match        https://xn----7sbab5aqcbiddtdj1e1g.xn--p1ai/*
 // @grant        none
 // ==/UserScript==
 
